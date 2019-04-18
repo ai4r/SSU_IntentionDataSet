@@ -1,3 +1,3 @@
 delemeter: tab
 
-format: startTime finishTime  action  pose  activity_intention 
+format: Time Action  Pose bathroom_door	livingroom_door	bathroom_motion	livingroom_motion  activity_intention 
