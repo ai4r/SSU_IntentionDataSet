@@ -1,19 +1,19 @@
-# AIR_TrainingDataSet
+## AIR_TrainingDataSet
 본 자료는 한국 정보통신부 국책 과제인 "고령 사회에 대응하기 위한 실환경 휴먼케어 로봇 기술 개발" 수행을 통해 산출된 공개용 훈련데이터 임.
 
 
-## Activity(55종) / Pose(10종) 내용
+### Activity(55종) / Pose(10종) 내용
  - ETRI 제공 표 참고
 
 
-## IoT 센서 정보(door / motion 센서)
+### IoT 센서 정보(door / motion 센서)
  - KETI 제공 표 참고
 
 
 
 
 
-## 공개 데이터 정보
+### 공개 데이터 정보
  
  - 데이터 규모(실험 고령자 인원 수 / 수집 시간 등등)
  
