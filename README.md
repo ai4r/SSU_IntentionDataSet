@@ -9,6 +9,7 @@
    고령자를 이해하고 정서적으로 반응하면서 상황에 맞는 맞춤형 서비스를 제공해 주는 휴먼케어로봇을 위한 
    지능정보융합 원천기술 개발 
 ```
+
 ### 데이터 개요
 ```description03
 ```
@@ -20,7 +21,8 @@
 ```
 
 ### 데이터 수집 방식
- - 
+```description05
+```
 
 ### 데이터 구성
  * [고령자 행동 정의(55종)](https://github.com/ssu0221/AIR_TrainingDataSet/blob/master/Actions.md)
