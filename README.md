@@ -7,6 +7,10 @@
 ## 데이터 개요
  - 
  
+## 데이터 수집 기관
+ * 데이터 수집 및 행동, 자세 레이블링: KETI(한국전자부품연구원)
+ * 행위 의도 레이블링: 숭실대학교
+
 ## 데이터 수집 방식
  - 
 
@@ -15,8 +19,7 @@
  * [고령자 자세 정의(10종)](https://github.com/ssu0221/AIR_TrainingDataSet/blob/master/Pose.md)
  * [IoT 센서 정보(door/motion 센서)](https://github.com/ssu0221/AIR_TrainingDataSet/blob/master/IoT.md)
 
-### IoT 센서 정보(door / motion 센서)
- - KETI 제공 표 참고
+
 
 
 
