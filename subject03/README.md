@@ -1,3 +1,3 @@
-delemeter: tab
+## delemeter: tab
 
-format: startTime	finishTime	action	pose	Activity_Intention 
+- format: startTime	finishTime	action	pose	Activity_Intention 
