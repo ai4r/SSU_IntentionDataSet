@@ -5,3 +5,4 @@
 |**door_x1**|현관문 열림/닫힘 감지| 열림:open, 닫힘:close|
 |**door_x2**|화장실문 열림/닫힘 감지| 열림:open, 닫힘:close|
 |**motion_s1**|부엌내에서의 모션 감지| 모션활성:active, 모션비활성:inactive|
+|**motion_s2**|화장실 변기 근처에서의 모션 감지| 모션활성:active, 모션비활성:inactive|
