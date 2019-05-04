@@ -25,7 +25,7 @@
 ```
 
 ### 데이터 구성
- * [고령자 행동 정의(55종)](https://github.com/ssu0221/AIR_TrainingDataSet/blob/master/Actions.md)
+ * [고령자 행동 정의(55종)](https://github.com/ssu0221/AIR_TrainingDataSet/blob/master/data_description/Action/README.md)
  * [고령자 자세 정의(10종)](https://github.com/ssu0221/AIR_TrainingDataSet/blob/master/Pose.md)
  * [IoT 센서 정보(door/motion 센서)](https://github.com/ssu0221/AIR_TrainingDataSet/blob/master/IoT.md)
 
