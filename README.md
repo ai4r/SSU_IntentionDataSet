@@ -17,24 +17,25 @@
 ### 데이터 수집 기관
  * __데이터 수집과 행동및 자세 레이블링: KETI(한국전자부품연구원)__
  * __행위 의도 레이블링: 숭실대학교__
+ * __데이터 규모(실험 고령자 인원 수 / 수집 시간 등등)__
 
 
 ### 데이터 수집 방식
 ```description05
 ```
 
-### 데이터 구성
+### 데이터 형식
+ ```description06
+   시간, 자세, 행동, 화장실도어상태, 거실도어상태, 화장실모션센서상태, 부엌모션센서상태, 사용자 의도
+ ```
+ 
+### 데이터 상세정보
  * [고령자 행동 정의(55종)](https://github.com/ssu0221/AIR_TrainingDataSet/blob/master/data_description/Action/README.md)
  * [고령자 자세 정의(10종)](https://github.com/ssu0221/AIR_TrainingDataSet/blob/master/data_description/Pose/README.md)
  * [IoT 센서 정보(door/motion 센서)](https://github.com/ssu0221/AIR_TrainingDataSet/blob/master/data_description/IoT/README.md)
 
-### 데이터 상세 정보
- 
- - 데이터 규모(실험 고령자 인원 수 / 수집 시간 등등)
- - 데이터 형식
- ```description06
-   시간, 자세, 행동, 화장실도어상태, 거실도어상태, 화장실모션센서상태, 부엌모션센서상태, 사용자 의도
- ```
+### 본 데이터가 적용된 논문
+ * [An approach for recognition of human’s daily living patterns using intention ontology and event calculus(Expert Systems with Applications,2019)](https://www.sciencedirect.com/science/article/pii/S0957417419302349?via%3Dihub)
  
  
  
