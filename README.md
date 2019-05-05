@@ -27,6 +27,7 @@
  * [고령자 행동 정의(55종)](https://github.com/ssu0221/AIR_TrainingDataSet/blob/master/data_description/Action/README.md)
  * [고령자 자세 정의(10종)](https://github.com/ssu0221/AIR_TrainingDataSet/blob/master/data_description/Pose/README.md)
  * [IoT 센서 정보(door/motion 센서)](https://github.com/ssu0221/AIR_TrainingDataSet/blob/master/data_description/IoT/README.md)
+ * [고령자 행위 의도](https://github.com/ssu0221/AIR_TrainingDataSet/blob/master/data_description/Activity_Intention/README.md)
 
 ### 본 데이터가 적용된 논문
  * [An approach for recognition of human’s daily living patterns using intention ontology and event calculus (Expert Systems with Applications, 2019)](https://www.sciencedirect.com/science/article/pii/S0957417419302349?via%3Dihub)
