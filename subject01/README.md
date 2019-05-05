@@ -1,3 +1,2 @@
-delemeter: tab
-
-format: Time Action  Pose bathroom_door	livingroom_door	bathroom_motion	livingroom_motion  activity_intention 
+파일형식: csv
+데이터형식: 시간, 자세, 행동, 화장실도어상태, 거실도어상태, 화장실모션센서상태, 부엌모션센서상태, 사용자 의도 
