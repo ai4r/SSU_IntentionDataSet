@@ -1,0 +1,45 @@
+시간, 자세, 행동, 화장실도어상태, 거실도어상태, 화장실모션센서상태, 부엌모션센서상태, 사용자 의도
+201804181642,바닥에 앉아 있다,리모콘으로 TV 컨트롤하기,close,close,inactive,inactive,TV시청
+201804181643,바닥에 앉아 있다,리모콘으로 TV 컨트롤하기,close,close,inactive,inactive,TV시청
+201804181644,바닥에 앉아 있다,리모콘으로 TV 컨트롤하기,close,close,inactive,inactive,TV시청
+201804181645,자세없음,행동없음,close,close,inactive,inactive,TV시청
+201804181646,자세없음,행동없음,close,close,inactive,inactive,TV시청
+201804181647,자세없음,행동없음,close,open,inactive,inactive,TV시청
+201804181647,자세없음,행동없음,close,close,inactive,inactive,TV시청
+201804181647,바닥에 앉아 있다,담소 나누기,close,close,inactive,inactive,대화하기
+201804181648,바닥에 앉아 있다,담소 나누기,close,close,inactive,inactive,대화하기
+201804181649,바닥에 앉아 있다,담소 나누기,close,close,inactive,inactive,대화하기
+201804181650,자세없음,행동없음,close,close,inactive,inactive,대화하기
+201804181651,바닥에 앉아 있다,담소 나누기,close,close,inactive,inactive,대화하기
+201804181652,자세없음,행동없음,close,close,inactive,inactive,대화하기
+201804181653,바닥에 앉아 있다,담소 나누기,close,close,inactive,inactive,대화하기
+201804181654,바닥에 앉아 있다,담소 나누기,close,close,inactive,inactive,대화하기
+201804181655,자세없음,행동없음,close,close,inactive,inactive,대화하기
+201804181646,자세없음,행동없음,close,open,inactive,inactive,의도없음
+201804181647,자세없음,행동없음,close,close,inactive,inactive,의도없음
+201804181648,자세없음,행동없음,close,close,inactive,inactive,의도없음
+201804181649,서 있기 (걷기 포함),그릇 설거지 하기,close,close,inactive,active,청소하기
+201804181650,서 있기 (걷기 포함),그릇 설거지 하기,close,close,inactive,active,청소하기
+201804181651,서 있기 (걷기 포함),그릇 설거지 하기,close,close,inactive,active,청소하기
+201804181652,자세없음,행동없음,open,close,active,active,손씻기/용변
+201804181653,자세없음,행동없음,open,close,active,active,손씻기/용변
+201804181654,자세없음,행동없음,close,close,active,active,손씻기/용변
+201804181655,자세없음,행동없음,close,close,inactive,active,의도없음
+201804181656,서 있기 (걷기 포함),약을 뜯어서 삼키기,close,close,inactive,active,헬스케어
+201804181657,서 있기 (걷기 포함),약을 뜯어서 삼키기,close,close,inactive,active,헬스케어
+201804181658,자세없음,행동없음,close,close,inactive,active,헬스케어
+201804181659,자세없음,행동없음,close,close,inactive,active,헬스케어
+201804181700,서 있기 (걷기 포함),냉장고 음식 넣고 꺼내기,close,close,inactive,active,식사준비
+201804181701,자세없음,행동없음,close,close,inactive,active,식사준비
+201804181702,자세없음,행동없음,close,close,inactive,active,식사준비
+201804181703,자세없음,행동없음,close,close,inactive,active,식사준비
+201804181704,서 있기 (걷기 포함),냉장고 음식 넣고 꺼내기,close,close,inactive,active,식사준비
+201804181705,자세없음,행동없음,close,close,inactive,active,식사준비
+201804181706,자세없음,행동없음,close,close,inactive,active,식사준비
+201804181707,의자에 앉아 있다,수저/포크로 음식 집어먹기,close,close,inactive,active,식사
+201804181708,의자에 앉아 있다,수저/포크로 음식 집어먹기,close,close,inactive,active,식사
+201804181709,자세없음,행동없음,close,close,inactive,active,식사
+201804181710,자세없음,행동없음,close,close,inactive,active,식사
+201804181711,의자에 앉아 있다,수저/포크로 음식 집어먹기,close,close,inactive,active,식사
+201804181712,의자에 앉아 있다,수저/포크로 음식 집어먹기,close,close,inactive,active,식사
+201804181713,의자에 앉아 있다,수저/포크로 음식 집어먹기,close,close,inactive,active,식사
