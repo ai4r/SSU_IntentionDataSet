@@ -1,7 +1,6 @@
-## 고령자의 행위 의도 인지 모델을 학습하기 위한 훈련데이터
+## Training data for learning the activity intention model of the elderly
 ```description01
-   본 자료는 한국 과학기술정보통신부 국책 과제인 "고령 사회에 대응하기 위한 실환경 휴먼케어 로봇 기술 개발" 수행을 통해 
-   산출된 공개용 훈련데이터이다.
+   This repository contains data set to build the activity intention model.This data was collected by performing a project of MSIP/IITP    If you have any questions or comments, please feel free to contact us by email (phkchr09@gmail.com).
 ```
 
 ### 프로젝트 개요
