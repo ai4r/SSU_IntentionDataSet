@@ -14,7 +14,12 @@
 
 ### Data format
  ```description06
-   Time, Pose, Action, bathroom_door_status, livingroom_door_status, motion_status in bathroom, motion_status in livingroom, activity_intention 
+   This data is represented by a sequence of the following format.
+   Time, Pose, Action, bd, ld, bm, lm, activity_intention 
+   * bd - bathroom_door_status
+   * ld - livingroom_door_status
+   * bm - motion_status in bathroom
+   * lm - motion_status in livingroom
    ```
  
 ### 데이터 상세정보
