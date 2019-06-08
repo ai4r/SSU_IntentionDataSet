@@ -9,7 +9,7 @@
 ```description03
    In this project, the activity intention model was learned based on 55 types of actions, 10 types of poses 
    and 4 types of IoT sensor information. Therefore, this data was represented by sequences to compose of 
-   action, pose, IoT sensor information and activity intention. 
+   action, pose, IoT sensor values and activity intention. 
 ```
 
 ### Data format
@@ -22,11 +22,11 @@
    * lm - motion_status in livingroom
    ```
  
-### 데이터 상세정보
- * [고령자 행동 정의(55종)](https://github.com/ssu0221/AIR_TrainingDataSet/blob/master/data_description/Action/README.md)
- * [고령자 자세 정의(10종)](https://github.com/ssu0221/AIR_TrainingDataSet/blob/master/data_description/Pose/README.md)
- * [IoT 센서 정보(door/motion 센서)](https://github.com/ssu0221/AIR_TrainingDataSet/blob/master/data_description/IoT/README.md)
- * [고령자 행위 의도](https://github.com/ssu0221/AIR_TrainingDataSet/blob/master/data_description/Activity_Intention/README.md)
+### Details of data
+ * [Actions of the elderly (55 types)](https://github.com/ssu0221/AIR_TrainingDataSet/blob/master/data_description/Action/README.md)
+ * [Poses of the elderly (10 types)](https://github.com/ssu0221/AIR_TrainingDataSet/blob/master/data_description/Pose/README.md)
+ * [IoT sensor values (door/motion)](https://github.com/ssu0221/AIR_TrainingDataSet/blob/master/data_description/IoT/README.md)
+ * [Activity intentions](https://github.com/ssu0221/AIR_TrainingDataSet/blob/master/data_description/Activity_Intention/README.md)
 
 ### 데이터 수집 기관
  * __데이터 수집과 행동및 자세 레이블링: KETI(한국전자부품연구원)__
