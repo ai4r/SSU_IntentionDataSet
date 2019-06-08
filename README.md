@@ -28,9 +28,9 @@
  * [IoT sensor values (door/motion)](https://github.com/ssu0221/AIR_TrainingDataSet/blob/master/data_description/IoT/README.md)
  * [Activity intentions](https://github.com/ssu0221/AIR_TrainingDataSet/blob/master/data_description/Activity_Intention/README.md)
 
-### 데이터 수집 기관
- * __데이터 수집과 행동및 자세 레이블링: KETI(한국전자부품연구원)__
- * __행위 의도 레이블링: 숭실대학교 인공지능연구실__
+### The institute to construct data sets
+ * __Action, pose and IoT data collection : KETI(Korea Electronics Technology Institute)__
+ * __Activity intention labeling: The AI Lab in Soongsil University__
 
 
 ### 본 데이터가 적용된 논문
