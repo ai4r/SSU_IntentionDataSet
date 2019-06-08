@@ -7,8 +7,7 @@
 
 ### 데이터 개요
 ```description03
-   본 데이터는 고령자의 55종의 행동과 10종의 자세및 4종의 IoT센서 정보를 바탕으로 행위의도인지 시스템을
-   구성하기위한 훈련데이터로서 행동,자세,IoT센서와 이에 대비되는 행위의도로 구성된다.
+   In this project, the activity intention model was learned based on 55 types of actions, 10 types of poses and 4 types of IoT sensor information. Therefore, this data is composed of action, pose, IoT sensor and activity intention. 
 ```
  
 ### 데이터 수집 기관
