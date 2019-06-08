@@ -11,21 +11,22 @@
    and 4 types of IoT sensor information. Therefore, this data was represented by sequences to compose of 
    action, pose, IoT sensor information and activity intention. 
 ```
- 
-### 데이터 수집 기관
- * __데이터 수집과 행동및 자세 레이블링: KETI(한국전자부품연구원)__
- * __행위 의도 레이블링: 숭실대학교 인공지능연구실__
 
-### 데이터 형식
+### Data format
  ```description06
-   시간, 자세, 행동, 화장실도어상태, 거실도어상태, 화장실모션센서상태, 부엌모션센서상태, 행위의도
- ```
+   Time, Pose, Action, bathroom_door_status, livingroom_door_status, motion_status in bathroom, motion_status in livingroom, activity_intention 
+   ```
  
 ### 데이터 상세정보
  * [고령자 행동 정의(55종)](https://github.com/ssu0221/AIR_TrainingDataSet/blob/master/data_description/Action/README.md)
  * [고령자 자세 정의(10종)](https://github.com/ssu0221/AIR_TrainingDataSet/blob/master/data_description/Pose/README.md)
  * [IoT 센서 정보(door/motion 센서)](https://github.com/ssu0221/AIR_TrainingDataSet/blob/master/data_description/IoT/README.md)
  * [고령자 행위 의도](https://github.com/ssu0221/AIR_TrainingDataSet/blob/master/data_description/Activity_Intention/README.md)
+
+### 데이터 수집 기관
+ * __데이터 수집과 행동및 자세 레이블링: KETI(한국전자부품연구원)__
+ * __행위 의도 레이블링: 숭실대학교 인공지능연구실__
+
 
 ### 본 데이터가 적용된 논문
  * [An approach for recognition of human’s daily living patterns using intention ontology and event calculus (Expert Systems with Applications, 2019)](https://www.sciencedirect.com/science/article/pii/S0957417419302349?via%3Dihub)
