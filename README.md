@@ -8,8 +8,8 @@
 ### Data overview
 ```description03
    In this project, the activity intention model was learned based on 55 types of actions, 10 types of poses 
-   and 4 types of IoT sensor information. Therefore, this data was represented by sequences to compose of action, 
-   pose, IoT sensor information and activity intention. 
+   and 4 types of IoT sensor information. Therefore, this data was represented by sequences to compose of 
+   action, pose, IoT sensor information and activity intention. 
 ```
  
 ### 데이터 수집 기관
