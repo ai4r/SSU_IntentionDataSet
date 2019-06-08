@@ -1,4 +1,4 @@
-시간, 자세, 행동, 화장실도어상태, 거실도어상태, 화장실모션센서상태, 부엌모션센서상태, 행위의도
+Time, Pose, Action, bd, ld, bm, lm, activity_intention 
 201804181642,바닥에 앉아 있다,리모콘으로 TV 컨트롤하기,close,close,inactive,inactive,TV시청
 201804181643,바닥에 앉아 있다,리모콘으로 TV 컨트롤하기,close,close,inactive,inactive,TV시청
 201804181644,바닥에 앉아 있다,리모콘으로 TV 컨트롤하기,close,close,inactive,inactive,TV시청
