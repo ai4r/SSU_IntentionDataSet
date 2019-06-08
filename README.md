@@ -32,6 +32,7 @@
  * __Action, pose and IoT data collection : KETI(Korea Electronics Technology Institute)__
  * __Activity intention labeling: The AI Lab in Soongsil University__
 
+
 ### Citation
 If our dataset is helpful, please kindly cite the following paper:
  ```description04
@@ -45,8 +46,8 @@ If our dataset is helpful, please kindly cite the following paper:
  ```
 
 
-### 본 데이터가 적용된 논문
- * [An approach for recognition of human’s daily living patterns using intention ontology and event calculus (Expert Systems with Applications, 2019)](https://www.sciencedirect.com/science/article/pii/S0957417419302349?via%3Dihub)
+### Acknowledgement
+ * This work was supported by the ICT R&D program of MSIP/IITP. [2017-0-00162, Development of Human-care Robot Technology for Aging Society]
  
  
  
