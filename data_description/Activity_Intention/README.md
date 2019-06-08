@@ -1,19 +1,19 @@
-## 고령자 행위 의도 정보
+## Activity intentions
 ------------------------------------------------------------------------------
-|    의도     |   세부의도   |번호|
+|    Intention     |   Subintention   |Number|
 |:----------:|:------------:|:---:|
-|식사|식사준비|1|
-||식사|2|
-||다과|3|
-|TV시청||4|
-|커뮤니케이션|대화하기|5|
-||전화통화하기|6|
-|독서||7|
-|청소||8|
-|물건정리||9|
-|홉연||10|
-|헬스케어||11|
-|드링크||12|
-|착용||13|
-|외출||14|
-|손씻기/용변||15|
+|Meal|PrepareMeal|1|
+||Meal|2|
+||Refreshment|3|
+|WatchingTV||4|
+|Communication|CommunicationWithPerson|5|
+||CommunicationByPhone|6|
+|Reading||7|
+|Cleaning||8|
+|ArrangeThing||9|
+|Smoking||10|
+|HealthCare||11|
+|Drink||12|
+|Clothing||13|
+|GoOut||14|
+|Handwashing/Discharge||15|
