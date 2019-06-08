@@ -1,8 +1,8 @@
-## IoT 센서 정보
+## IoT sensor values (door/motion)
 -----------------------------------------------------------------------------------------------------------------
-|센서|용도|값|
+|Sensor|Usage|Value|
 |:---:|:---:|:---:|
-|**door_x1**|현관문 열림/닫힘 감지| 열림:open, 닫힘:close|
-|**door_x2**|화장실문 열림/닫힘 감지| 열림:open, 닫힘:close|
-|**motion_s1**|부엌내에서의 모션 감지| 모션활성:active, 모션비활성:inactive|
-|**motion_s2**|화장실 변기 근처에서의 모션 감지| 모션활성:active, 모션비활성:inactive|
+|**door_x1**|Sensing the status of livingroom-door|open, close|
+|**door_x2**|Sensing the status of bathroom-door|open, close|
+|**motion_s1**|Sensing the motion in livingroom|active, inactive|
+|**motion_s2**|Sensing the motion in bathroom|active, inactive|
