@@ -1,5 +1,5 @@
 ## Training data for learning the activity intention model of the elderly
-   This repository contains data set to build the activity intention model. This data was collected by performing a project of MSIP/IITP. If you have any questions or comments, please feel free to contact us by email [phkchr09@gmail.com](phkchr09@gmail.com).
+   This repository contains data set to build the activity intention model of the elderly. This data was collected by performing a project of MSIP/IITP. If you have any questions or comments, please feel free to contact us by email [phkchr09@gmail.com](phkchr09@gmail.com).
 
 ### 프로젝트 개요
 ```description02
