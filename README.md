@@ -36,14 +36,13 @@
 If our dataset is helpful, please kindly cite the following paper:
  ```description04
  @INPROCEEDINGS{
-  yoonICRA19,
-  title={Robots Learn Social Skills: End-to-End Learning of Co-Speech Gesture Generation for Humanoid Robots},
-  author={Yoon, Youngwoo and Ko, Woo-Ri and Jang, Minsu and Lee, Jaeyeon and Kim, Jaehong and Lee, Geehyuk},
-  booktitle={Proc. of The International Conference in Robotics and Automation (ICRA)},
+  kimESWA19,
+  title={An approach  for recognition of human’s daily living patterns using intention ontology and event calculus},
+  author={Kim, Jemin and Jeon, Myungjoong and Park, Hyunkyu and Bea, Seokhyun and Bang, Sunghyuk and Park, Youngtack},
+  booktitle={Journal of Expert Systems with Applications (ESWA)},
   year={2019}
 }
  ```
-
 
 
 ### 본 데이터가 적용된 논문
