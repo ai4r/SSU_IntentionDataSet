@@ -1,0 +1,45 @@
+Time, Pose, Action, bd, ld, bm, lm, activity_intention
+201804181642,sitting on the floor,using a remote control,close,close,inactive,inactive,WatchingTV
+201804181643,sitting on the floor,using a remote control,close,close,inactive,inactive,WatchingTV
+201804181644,sitting on the floor,using a remote control,close,close,inactive,inactive,WatchingTV
+201804181645,null,null,close,close,inactive,inactive,WatchingTV
+201804181646,null,null,close,close,inactive,inactive,WatchingTV
+201804181647,null,null,close,open,inactive,inactive,WatchingTV
+201804181647,null,null,close,close,inactive,inactive,WatchingTV
+201804181647,sitting on the floor,talking to each other,close,close,inactive,inactive,CommunicationWithPerson
+201804181648,sitting on the floor,talking to each other,close,close,inactive,inactive,CommunicationWithPerson
+201804181649,sitting on the floor,talking to each other,close,close,inactive,inactive,CommunicationWithPerson
+201804181650,null,null,close,close,inactive,inactive,CommunicationWithPerson
+201804181651,sitting on the floor,talking to each other,close,close,inactive,inactive,CommunicationWithPerson
+201804181652,null,null,close,close,inactive,inactive,CommunicationWithPerson
+201804181653,sitting on the floor,talking to each other,close,close,inactive,inactive,CommunicationWithPerson
+201804181654,sitting on the floor,talking to each other,close,close,inactive,inactive,CommunicationWithPerson
+201804181655,null,null,close,close,inactive,inactive,CommunicationWithPerson
+201804181646,null,null,close,open,inactive,inactive,null
+201804181647,null,null,close,close,inactive,inactive,null
+201804181648,null,null,close,close,inactive,inactive,null
+201804181649,standing,washing the dishes,close,close,inactive,active,Cleaning
+201804181650,standing,washing the dishes,close,close,inactive,active,Cleaning
+201804181651,standing,washing the dishes,close,close,inactive,active,Cleaning
+201804181652,null,null,open,close,active,active,Handwashing/Discharge
+201804181653,null,null,open,close,active,active,Handwashing/Discharge
+201804181654,null,null,close,close,active,active,Handwashing/Discharge
+201804181655,null,null,close,close,inactive,active,null
+201804181656,standing,taking medicine,close,close,inactive,active,HealthCare
+201804181657,standing,taking medicine,close,close,inactive,active,HealthCare
+201804181658,null,null,close,close,inactive,active,HealthCare
+201804181659,null,null,close,close,inactive,active,HealthCare
+201804181700,standing,putting food in the fridge/taking food from the fridge,close,close,inactive,active,PrepareMeal
+201804181701,null,null,close,close,inactive,active,PrepareMeal
+201804181702,null,null,close,close,inactive,active,PrepareMeal
+201804181703,null,null,close,close,inactive,active,PrepareMeal
+201804181704,standing,putting food in the fridge/taking food from the fridge,close,close,inactive,active,PrepareMeal
+201804181705,null,null,close,close,inactive,active,PrepareMeal
+201804181706,null,null,close,close,inactive,active,PrepareMeal
+201804181707,sitting on a chair,eating food with a fork,close,close,inactive,active,Meal
+201804181708,sitting on a chair,eating food with a fork,close,close,inactive,active,Meal
+201804181709,null,null,close,close,inactive,active,Meal
+201804181710,null,null,close,close,inactive,active,Meal
+201804181711,sitting on a chair,eating food with a fork,close,close,inactive,active,Meal
+201804181712,sitting on a chair,eating food with a fork,close,close,inactive,active,Meal
+201804181713,sitting on a chair,eating food with a fork,close,close,inactive,active,Meal
